@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html, body {
+    height: 100%;
+}
+body {
+    font-family: 'Oswald', Arial, sans-serif;
+    line-height: 1.5;
+}
+.wrapper {
+    overflow: hidden;
+    min-height: 100%;
+}
+.container {
+    max-width: 1220px;
+    margin: 0 auto;
+}
+ul {
+    list-style: none;
+}
+a {
+    font-style: inherit;
+    text-decoration: none;
+}
+img {
+    width: 100%;
+}
+h2 {
+    font-size: 60px;
+    line-height: 1;
+}
+h3 {
+    font-size: 36px;
+    line-height: 1;
+}
